@@ -1,0 +1,24 @@
+{
+  "name": "blockchainproject",
+  "version": "1.0.0",
+  "description": "API Key: 7ea648d2-b534-49a6-a3c3-459c91cc6df9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1siikaa/blockchainProject.git"
+  },
+  "author": "Vanshika Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1siikaa/blockchainProject/issues"
+  },
+  "homepage": "https://github.com/1siikaa/blockchainProject#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
